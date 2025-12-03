@@ -31,5 +31,5 @@ All results, figures, and modeling steps shown in the final report can be reprod
 
 ## Contact
 Yanran Chen  
-yanranc@umich.edu
+yanranc@umich.edu  
 UMID: 73591117
