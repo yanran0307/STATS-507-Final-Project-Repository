@@ -2,7 +2,7 @@
 
 This repository contains all materials for Yanran Chen’s Final Project in **STATS 507** at the University of Michigan.
 
-## 📁 Repository Contents
+## Repository Contents
 
 ### `STATS_507_Final_Project_Report_IEEE.pdf`
 Final project report written in IEEE conference format.
